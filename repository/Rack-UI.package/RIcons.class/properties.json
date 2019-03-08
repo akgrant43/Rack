@@ -1,14 +1,11 @@
 {
-	"category" : "Rack-UI",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "RIcons",
-	"pools" : [
-		 ],
 	"super" : "UiIcons",
-	"type" : "normal" }
+	"category" : "Rack-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RIcons",
+	"type" : "normal"
+}

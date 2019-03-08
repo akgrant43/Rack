@@ -1,17 +1,16 @@
 {
-	"category" : "Rack-UI",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Model",
+	"category" : "Rack-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"root",
 		"selectedElement",
 		"selectedPath",
-		"selectedParent" ],
+		"selectedParent"
+	],
 	"name" : "RRackTool",
-	"pools" : [
-		 ],
-	"super" : "Model",
-	"type" : "normal" }
+	"type" : "normal"
+}

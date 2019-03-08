@@ -1,14 +1,11 @@
 {
-	"category" : "Rack-UI",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "RTransferMorph",
-	"pools" : [
-		 ],
 	"super" : "TransferMorph",
-	"type" : "normal" }
+	"category" : "Rack-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RTransferMorph",
+	"type" : "normal"
+}
